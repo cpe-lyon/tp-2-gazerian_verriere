@@ -285,7 +285,8 @@ echo $MAX
 ./script7.sh 1 2 3 4 5 6 7
   Réponse : "28
 4
-1"
+1
+7"
 ./script7.sh 70 80 90 70 80
   Réponse : "390
 78
