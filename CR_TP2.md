@@ -1,7 +1,7 @@
 Nicolas GAZERIAN, Nicolas VERRIERE
 4ETI
 
-** TP2 - Administration système : Compte Rendu**
+**TP2 - Administration système : Compte Rendu**
 
 **Exercice 1 :**
 
@@ -24,7 +24,7 @@ par celui où a été créée (mais pas exportée).
 les bash fils de celu ide départ connaissent aussi la variable. Il est donc possible d'afficher la variable ou sa valeur dans le 
 nouveau bash.
 
-7) *code : *
+7) *code :*
 export NOMS="GAZERIAN VERRIERE"
 printenv NOMS
 
