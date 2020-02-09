@@ -46,6 +46,7 @@ echo '$HOME =' $(pwd)
 
 **Exercice 2 :**
 *code :*
+''' bash 
 #!/bin/bash
 
 MOTDEPASSE=password
@@ -57,6 +58,7 @@ if [ $mdp =  $MOTDEPASSE ]; then
 else
 	echo "mot de passe incorrect"
 fi
+'''
 
 *Quelques tests effectués :*
 chmod u+x script2.sh
