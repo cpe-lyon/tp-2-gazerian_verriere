@@ -25,8 +25,9 @@ les bash fils de celu ide départ connaissent aussi la variable. Il est donc pos
 nouveau bash.
 
 7) *code :*
+'''bash
 export NOMS="GAZERIAN VERRIERE"
-printenv NOMS
+printenv NOMS'''
 
 8) *code :*
 echo "Bonjour à vous deux, $NOMS"
