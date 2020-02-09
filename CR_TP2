@@ -1,11 +1,15 @@
-echo "# tp-2-gazerian_verriere" >> README.md
+echo "# tp-2-gazerian_verriere"
 git init
-git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/cpe-lyon/tp-2-gazerian_verriere.git
 git push -u origin master
 
-**Exercice 1**
+Nicolas GAZERIAN, Nicolas VERRIERE
+4ETI
+
+** TP2 - Administration système : Compte Rendu**
+
+**Exercice 1 :**
 
 1) Les commandes tapées par l'utilisateur se trouvent dans les dossiers suivants : /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 
@@ -299,20 +303,3 @@ echo $MAX
 10
 -100
 100"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
