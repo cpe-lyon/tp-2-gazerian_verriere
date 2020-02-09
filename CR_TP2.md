@@ -25,10 +25,8 @@ les bash fils de celu ide départ connaissent aussi la variable. Il est donc pos
 nouveau bash.
 
 7) *code :*
-''' bash
 export NOMS="GAZERIAN VERRIERE"
 printenv NOMS
-'''
 
 8) *code :*
 echo "Bonjour à vous deux, $NOMS"
@@ -46,7 +44,6 @@ echo '$HOME =' $(pwd)
 
 **Exercice 2 :**
 *code :*
-''' bash 
 #!/bin/bash
 
 MOTDEPASSE=password
@@ -58,7 +55,6 @@ if [ $mdp =  $MOTDEPASSE ]; then
 else
 	echo "mot de passe incorrect"
 fi
-'''
 
 *Quelques tests effectués :*
 chmod u+x script2.sh
